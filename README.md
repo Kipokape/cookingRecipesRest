@@ -1,6 +1,10 @@
 REST-сервис на JDBC и Servlet для кулинарный рецептов. Дополнительно использовались HikariCP, Mapstruckt, Jackson. 
 Для тестов использовались Junit и Mockito, дополнительно для тестирования репозитория БД использовался testcontainers.
-Демонстрация работы: https://youtu.be/nDYmYAnfs3g
+
+
+Демонстрация работы (старая): https://youtu.be/nDYmYAnfs3g
+
+Демонстрация работы (новая): https://youtu.be/P40mfCJdzZw
 
 Схема БД (PostgreSQL 15):
 
